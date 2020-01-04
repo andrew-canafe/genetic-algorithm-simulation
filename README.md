@@ -3,7 +3,7 @@ Program that demonstrates genetic algorithms using simulated robots via console 
 
 ## Details
 - Runs on Linux
-- Runs on Windows, but further testing needed for bugs
+- Runs on Windows, but further testing needed
 - Written in C++
 
 ## Game rules
