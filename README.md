@@ -7,6 +7,7 @@
 
 ## Sample output
 ![Sample Output](/sample1.png)
+
 ![Sample Output](/sample2.png)
 
 ## How it works
