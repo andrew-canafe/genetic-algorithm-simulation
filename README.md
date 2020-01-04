@@ -6,6 +6,21 @@ Program that demonstrates genetic algorithms using simulated robots via console 
 - Runs on Windows, but further testing needed for bugs
 - Written in C++
 
+## Game rules
+1. World is a 14x14 grid with the edges filled in by walls
+2. There must be exactly 10 robots at the start of each round, randomly placed
+3. There must be exactly 58 batteries at the start of each round, randomly placed
+4. Robots start with 10 energy at the start of each round
+5. A robot can turn direction, costs 0 energy
+6. A robot can move direction, costs 1 energy
+7. A robot becomes unable to move when at 0 energy, until the next round
+8. A robot cannot collide with a wall
+9. A robot cannot collide with another robot
+10. A robot can replenish 5 energy when a battery is collected
+11. The round ends after each robot has taken exactly 25 moves
+12. Fitness values for each robot are calculated based on number of batteries collected
+13. Goal: maximize the average fitness values
+
 ## Sample output
 ![Sample Output](/sample1.png)
 
