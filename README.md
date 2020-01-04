@@ -19,6 +19,7 @@ Program that demonstrates genetic algorithms using simulated robots via console 
 10. A robot can replenish 5 energy when a battery is collected
 11. The round ends after each robot has taken exactly 25 moves
 12. Fitness values for each robot are calculated based on number of batteries collected
+
 **13. Goal: maximize the average fitness values**
 
 ## Sample output
