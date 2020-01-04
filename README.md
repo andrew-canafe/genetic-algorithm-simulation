@@ -7,7 +7,7 @@ Program that demonstrates genetic algorithms using simulated robots via console 
 - Written in C++
 
 ## Game rules
-1. World is a 14x14 grid with the edges filled in by walls
+1. World is a 14x14 grid with the edges filled-in by walls
 2. There must be exactly 10 robots at the start of each round, randomly placed
 3. There must be exactly 58 batteries at the start of each round, randomly placed
 4. Robots start with 10 energy at the start of each round
