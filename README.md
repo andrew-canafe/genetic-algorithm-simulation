@@ -1,4 +1,4 @@
-# Genetic-Algorithm-Simulation
+# Genetic Algorithm Simulation
 Program that demonstrates genetic algorithms using simulated robots via console (written in 2017). The final assignment for my Object-Oriented Programming class and one of my favorite programming projects of all time.
 
 ## Details
